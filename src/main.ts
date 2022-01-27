@@ -1,0 +1,1 @@
+export * from './WebComponentSvelte.svelte';
