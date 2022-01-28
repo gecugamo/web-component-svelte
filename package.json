@@ -2,7 +2,6 @@
   "name": "@gecugamo/web-component-svelte",
   "main": "public/build/bundle.js",
   "version": "1.0.1",
-  "private": true,
   "scripts": {
     "test": "echo \"No test specified\"",
     "build": "rollup -c",
