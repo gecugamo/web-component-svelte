@@ -1,5 +1,5 @@
 {
-  "name": "web-component-svelte",
+  "name": "@gecugamo/web-component-svelte",
   "main": "public/build/bundle.js",
   "version": "1.0.0",
   "private": true,
@@ -27,5 +27,8 @@
   },
   "dependencies": {
     "sirv-cli": "^2.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
